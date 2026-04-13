@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "categories": {
+    "good_morning_general": {
+      "images": [
+        "https://raw.githubusercontent.com/teamastryxone/goodmorningindia/main/images/img1.jpg"
+      ]
+    },
+    "good_morning_spiritual": {
+      "images": []
+    },
+    "good_afternoon": {
+      "images": []
+    },
+    "good_evening": {
+      "images": []
+    },
+    "good_night": {
+      "images": []
+    },
+    "happy_birthday": {
+      "images": []
+    },
+    "congratulations": {
+      "images": []
+    },
+    "thank_you": {
+      "images": []
+    },
+    "diwali": {
+      "images": []
+    },
+    "holi": {
+      "images": []
+    },
+    "ganesh_chaturthi": {
+      "images": []
+    },
+    "raksha_bandhan": {
+      "images": []
+    },
+    "navratri": {
+      "images": []
+    },
+    "pongal": {
+      "images": []
+    }
+  }
+}
