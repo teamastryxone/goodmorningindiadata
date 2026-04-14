@@ -1,118 +1,284 @@
 {
-  "version": "1.0",
+  "version": "1.0.0",
+  "last_updated": "2026-04-13",
+  "base_url": "https://raw.githubusercontent.com/teamastryxone/goodmorningindia/main/images",
   "categories": {
     "good_morning_general": {
+      "count": 70,
       "images": [
-  "images/img1.jpg",
-  "images/img2.jpg",
-  "images/img3.jpg",
-  "images/img4.jpg",
-  "images/img5.jpg",
-  "images/img6.jpg",
-  "images/img7.jpg",
-  "images/img8.jpg",
-  "images/img9.jpg",
-  "images/img10.jpg",
-  "images/img11.jpg",
-  "images/img12.jpg",
-  "images/img13.jpg",
-  "images/img14.jpg",
-  "images/img15.jpg",
-  "images/img16.jpg",
-  "images/img17.jpg",
-  "images/img18.jpg",
-  "images/img19.jpg",
-  "images/img20.jpg",
-  "images/img21.jpg",
-  "images/img22.jpg",
-  "images/img23.jpg",
-  "images/img24.jpg",
-  "images/img25.jpg",
-  "images/img26.jpg",
-  "images/img27.jpg",
-  "images/img28.jpg",
-  "images/img29.jpg",
-  "images/img30.jpg",
-  "images/img31.jpg",
-  "images/img32.jpg",
-  "images/img33.jpg",
-  "images/img34.jpg",
-  "images/img35.jpg",
-  "images/img36.jpg",
-  "images/img37.jpg",
-  "images/img38.jpg",
-  "images/img39.jpg",
-  "images/img40.jpg",
-  "images/img41.jpg",
-  "images/img42.jpg",
-  "images/img43.jpg",
-  "images/img44.jpg",
-  "images/img45.jpg",
-  "images/img46.jpg",
-  "images/img47.jpg",
-  "images/img48.jpg",
-  "images/img49.jpg",
-  "images/img50.jpg",
-  "images/img51.jpg",
-  "images/img52.jpg",
-  "images/img53.jpg",
-  "images/img54.jpg",
-  "images/img55.jpg",
-  "images/img56.jpg",
-  "images/img57.jpg",
-  "images/img58.jpg",
-  "images/img59.jpg",
-  "images/img60.jpg",
-  "images/img61.jpg",
-  "images/img62.jpg",
-  "images/img63.jpg",
-  "images/img64.jpg",
-  "images/img65.jpg",
-  "images/img66.jpg",
-  "images/img67.jpg",
-  "images/img68.jpg",
-  "images/img69.jpg",
-  "images/img70.jpg"
-]
+        "goodmorning/img1.jpg",
+        "goodmorning/img2.jpg",
+        "goodmorning/img3.jpg",
+        "goodmorning/img4.jpg",
+        "goodmorning/img5.jpg",
+        "goodmorning/img6.jpg",
+        "goodmorning/img7.jpg",
+        "goodmorning/img8.jpg",
+        "goodmorning/img9.jpg",
+        "goodmorning/img10.jpg",
+        "goodmorning/img11.jpg",
+        "goodmorning/img12.jpg",
+        "goodmorning/img13.jpg",
+        "goodmorning/img14.jpg",
+        "goodmorning/img15.jpg",
+        "goodmorning/img16.jpg",
+        "goodmorning/img17.jpg",
+        "goodmorning/img18.jpg",
+        "goodmorning/img19.jpg",
+        "goodmorning/img20.jpg",
+        "goodmorning/img21.jpg",
+        "goodmorning/img22.jpg",
+        "goodmorning/img23.jpg",
+        "goodmorning/img24.jpg",
+        "goodmorning/img25.jpg",
+        "goodmorning/img26.jpg",
+        "goodmorning/img27.jpg",
+        "goodmorning/img28.jpg",
+        "goodmorning/img29.jpg",
+        "goodmorning/img30.jpg",
+        "goodmorning/img31.jpg",
+        "goodmorning/img32.jpg",
+        "goodmorning/img33.jpg",
+        "goodmorning/img34.jpg",
+        "goodmorning/img35.jpg",
+        "goodmorning/img36.jpg",
+        "goodmorning/img37.jpg",
+        "goodmorning/img38.jpg",
+        "goodmorning/img39.jpg",
+        "goodmorning/img40.jpg",
+        "goodmorning/img41.jpg",
+        "goodmorning/img42.jpg",
+        "goodmorning/img43.jpg",
+        "goodmorning/img44.jpg",
+        "goodmorning/img45.jpg",
+        "goodmorning/img46.jpg",
+        "goodmorning/img47.jpg",
+        "goodmorning/img48.jpg",
+        "goodmorning/img49.jpg",
+        "goodmorning/img50.jpg",
+        "goodmorning/img51.jpg",
+        "goodmorning/img52.jpg",
+        "goodmorning/img53.jpg",
+        "goodmorning/img54.jpg",
+        "goodmorning/img55.jpg",
+        "goodmorning/img56.jpg",
+        "goodmorning/img57.jpg",
+        "goodmorning/img58.jpg",
+        "goodmorning/img59.jpg",
+        "goodmorning/img60.jpg",
+        "goodmorning/img61.jpg",
+        "goodmorning/img62.jpg",
+        "goodmorning/img63.jpg",
+        "goodmorning/img64.jpg",
+        "goodmorning/img65.jpg",
+        "goodmorning/img66.jpg",
+        "goodmorning/img67.jpg",
+        "goodmorning/img68.jpg",
+        "goodmorning/img69.jpg",
+        "goodmorning/img70.jpg"
+      ]
     },
     "good_morning_spiritual": {
-      "images": []
+      "count": 30,
+      "images": [
+        "goodmorningspiritual/img1.jpg",
+        "goodmorningspiritual/img2.jpg",
+        "goodmorningspiritual/img3.jpg",
+        "goodmorningspiritual/img4.jpg",
+        "goodmorningspiritual/img5.jpg",
+        "goodmorningspiritual/img6.jpg",
+        "goodmorningspiritual/img7.jpg",
+        "goodmorningspiritual/img8.jpg",
+        "goodmorningspiritual/img9.jpg",
+        "goodmorningspiritual/img10.jpg",
+        "goodmorningspiritual/img11.jpg",
+        "goodmorningspiritual/img12.jpg",
+        "goodmorningspiritual/img13.jpg",
+        "goodmorningspiritual/img14.jpg",
+        "goodmorningspiritual/img15.jpg",
+        "goodmorningspiritual/img16.jpg",
+        "goodmorningspiritual/img17.jpg",
+        "goodmorningspiritual/img18.jpg",
+        "goodmorningspiritual/img19.jpg",
+        "goodmorningspiritual/img20.jpg",
+        "goodmorningspiritual/img21.jpg",
+        "goodmorningspiritual/img22.jpg",
+        "goodmorningspiritual/img23.jpg",
+        "goodmorningspiritual/img24.jpg",
+        "goodmorningspiritual/img25.jpg",
+        "goodmorningspiritual/img26.jpg",
+        "goodmorningspiritual/img27.jpg",
+        "goodmorningspiritual/img28.jpg",
+        "goodmorningspiritual/img29.jpg",
+        "goodmorningspiritual/img30.jpg"
+      ]
     },
     "good_afternoon": {
-      "images": []
+      "count": 10,
+      "images": [
+        "goodafternoon/img1.jpg",
+        "goodafternoon/img2.jpg",
+        "goodafternoon/img3.jpg",
+        "goodafternoon/img4.jpg",
+        "goodafternoon/img5.jpg",
+        "goodafternoon/img6.jpg",
+        "goodafternoon/img7.jpg",
+        "goodafternoon/img8.jpg",
+        "goodafternoon/img9.jpg",
+        "goodafternoon/img10.jpg"
+      ]
     },
     "good_evening": {
-      "images": []
+      "count": 10,
+      "images": [
+        "goodevening/img1.jpg",
+        "goodevening/img2.jpg",
+        "goodevening/img3.jpg",
+        "goodevening/img4.jpg",
+        "goodevening/img5.jpg",
+        "goodevening/img6.jpg",
+        "goodevening/img7.jpg",
+        "goodevening/img8.jpg",
+        "goodevening/img9.jpg",
+        "goodevening/img10.jpg"
+      ]
     },
     "good_night": {
-      "images": []
+      "count": 10,
+      "images": [
+        "goodnight/img1.jpg",
+        "goodnight/img2.jpg",
+        "goodnight/img3.jpg",
+        "goodnight/img4.jpg",
+        "goodnight/img5.jpg",
+        "goodnight/img6.jpg",
+        "goodnight/img7.jpg",
+        "goodnight/img8.jpg",
+        "goodnight/img9.jpg",
+        "goodnight/img10.jpg"
+      ]
     },
     "happy_birthday": {
-      "images": []
+      "count": 11,
+      "images": [
+        "happybirthday/img1.jpg",
+        "happybirthday/img2.jpg",
+        "happybirthday/img3.jpg",
+        "happybirthday/img4.jpg",
+        "happybirthday/img5.jpg",
+        "happybirthday/img6.jpg",
+        "happybirthday/img7.jpg",
+        "happybirthday/img8.jpg",
+        "happybirthday/img9.jpg",
+        "happybirthday/img10.jpg",
+        "happybirthday/img11.jpg"
+      ]
     },
     "congratulations": {
-      "images": []
+      "count": 5,
+      "images": [
+        "congratulations/img1.jpg",
+        "congratulations/img2.jpg",
+        "congratulations/img3.jpg",
+        "congratulations/img4.jpg",
+        "congratulations/img5.jpg"
+      ]
     },
     "thank_you": {
-      "images": []
+      "count": 5,
+      "images": [
+        "thankyou/img1.jpg",
+        "thankyou/img2.jpg",
+        "thankyou/img3.jpg",
+        "thankyou/img4.jpg",
+        "thankyou/img5.jpg"
+      ]
     },
     "diwali": {
-      "images": []
+      "count": 10,
+      "images": [
+        "festivals/diwali/img1.jpg",
+        "festivals/diwali/img2.jpg",
+        "festivals/diwali/img3.jpg",
+        "festivals/diwali/img4.jpg",
+        "festivals/diwali/img5.jpg",
+        "festivals/diwali/img6.jpg",
+        "festivals/diwali/img7.jpg",
+        "festivals/diwali/img8.jpg",
+        "festivals/diwali/img9.jpg",
+        "festivals/diwali/img10.jpg"
+      ]
     },
     "holi": {
-      "images": []
+      "count": 5,
+      "images": [
+        "festivals/holi/img1.jpg",
+        "festivals/holi/img2.jpg",
+        "festivals/holi/img3.jpg",
+        "festivals/holi/img4.jpg",
+        "festivals/holi/img5.jpg"
+      ]
     },
     "ganesh_chaturthi": {
-      "images": []
-    },
-    "raksha_bandhan": {
-      "images": []
+      "count": 10,
+      "images": [
+        "festivals/ganeshchaturthi/img1.jpg",
+        "festivals/ganeshchaturthi/img2.jpg",
+        "festivals/ganeshchaturthi/img3.jpg",
+        "festivals/ganeshchaturthi/img4.jpg",
+        "festivals/ganeshchaturthi/img5.jpg",
+        "festivals/ganeshchaturthi/img6.jpg",
+        "festivals/ganeshchaturthi/img7.jpg",
+        "festivals/ganeshchaturthi/img8.jpg",
+        "festivals/ganeshchaturthi/img9.jpg",
+        "festivals/ganeshchaturthi/img10.jpg"
+      ]
     },
     "navratri": {
-      "images": []
+      "count": 10,
+      "images": [
+        "festivals/navratri/img1.jpg",
+        "festivals/navratri/img2.jpg",
+        "festivals/navratri/img3.jpg",
+        "festivals/navratri/img4.jpg",
+        "festivals/navratri/img5.jpg",
+        "festivals/navratri/img6.jpg",
+        "festivals/navratri/img7.jpg",
+        "festivals/navratri/img8.jpg",
+        "festivals/navratri/img9.jpg",
+        "festivals/navratri/img10.jpg"
+      ]
     },
     "pongal": {
-      "images": []
+      "count": 6,
+      "images": [
+        "festivals/sankranti-pongal/img1.jpg",
+        "festivals/sankranti-pongal/img2.jpg",
+        "festivals/sankranti-pongal/img3.jpg",
+        "festivals/sankranti-pongal/img4.jpg",
+        "festivals/sankranti-pongal/img5.jpg",
+        "festivals/sankranti-pongal/img6.jpg"
+      ]
+    },
+    "christmas": {
+      "count": 5,
+      "images": [
+        "festivals/christmas/img1.jpg",
+        "festivals/christmas/img2.jpg",
+        "festivals/christmas/img3.jpg",
+        "festivals/christmas/img4.jpg",
+        "festivals/christmas/img5.jpg"
+      ]
+    },
+    "new year": {
+      "count": 5,
+      "images": [
+        "festivals/newyear/img1.jpg",
+        "festivals/newyear/img2.jpg",
+        "festivals/newyear/img3.jpg",
+        "festivals/newyear/img4.jpg",
+        "festivals/newyear/img5.jpg"
+      ]
     }
   }
 }
