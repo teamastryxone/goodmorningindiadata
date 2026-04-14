@@ -1,0 +1,226 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-13",
+  "languages": ["en", "hi", "bn", "te", "mr", "ta", "gu", "kn"],
+  "captions": {
+    "good_morning_general": {
+      "en": [
+        "\"Every morning brings new opportunities\"\nGood Morning!",
+        "\"Rise with the sun, shine all day\"\nGood Morning!",
+        "\"Today is a gift, embrace it\"\nGood Morning!",
+        "\"Start your day with gratitude\"\nGood Morning!",
+        "\"New day, new possibilities\"\nGood Morning!",
+        "\"Make today amazing\"\nGood Morning!",
+        "\"Smile, it's a beautiful morning\"\nGood Morning!",
+        "\"Success starts with a positive morning\"\nGood Morning!",
+        "\"Chase your dreams today\"\nGood Morning!",
+        "\"Every sunrise brings hope\"\nGood Morning!",
+        "\"Begin with confidence\"\nGood Morning!",
+        "\"Your future starts now\"\nGood Morning!",
+        "\"Believe in yourself today\"\nGood Morning!",
+        "\"Make it a great day\"\nGood Morning!",
+        "\"Spread joy wherever you go\"\nGood Morning!",
+        "\"Today is your day to shine\"\nGood Morning!",
+        "\"Wake up with determination\"\nGood Morning!",
+        "\"Create something wonderful today\"\nGood Morning!",
+        "\"Life is beautiful, enjoy it\"\nGood Morning!",
+        "\"Start fresh, start strong\"\nGood Morning!",
+        "\"Your attitude shapes your day\"\nGood Morning!",
+        "\"Seize the day with enthusiasm\"\nGood Morning!",
+        "\"Let your light shine bright\"\nGood Morning!",
+        "\"Today holds infinite possibilities\"\nGood Morning!",
+        "\"Be the reason someone smiles\"\nGood Morning!",
+        "\"Greatness awaits you today\"\nGood Morning!",
+        "\"Rise and radiate positivity\"\nGood Morning!",
+        "\"Your journey begins now\"\nGood Morning!",
+        "\"Make every moment count\"\nGood Morning!",
+        "\"Embrace the day with joy\"\nGood Morning!"
+      ],
+      "hi": [
+        "\"हर सुबह नई संभावनाएं लाती है\"\nसुप्रभात!",
+        "\"सूरज के साथ उठो, दिन भर चमको\"\nसुप्रभात!",
+        "\"आज एक उपहार है, इसे अपनाओ\"\nसुप्रभात!",
+        "\"अपना दिन कृतज्ञता से शुरू करें\"\nसुप्रभात!",
+        "\"नया दिन, नई संभावनाएं\"\nसुप्रभात!",
+        "\"आज को अद्भुत बनाओ\"\nसुप्रभात!",
+        "\"मुस्कुराओ, यह एक सुंदर सुबह है\"\nसुप्रभात!",
+        "\"सफलता सकारात्मक सुबह से शुरू होती है\"\nसुप्रभात!",
+        "\"आज अपने सपनों का पीछा करो\"\nसुप्रभात!",
+        "\"हर सूर्योदय आशा लाता है\"\nसुप्रभात!",
+        "\"आत्मविश्वास से शुरुआत करें\"\nसुप्रभात!",
+        "\"आपका भविष्य अभी शुरू होता है\"\nसुप्रभात!",
+        "\"आज खुद पर विश्वास करें\"\nसुप्रभात!",
+        "\"इसे एक शानदार दिन बनाओ\"\nसुप्रभात!",
+        "\"जहां भी जाओ खुशी फैलाओ\"\nसुप्रभात!",
+        "\"आज चमकने का आपका दिन है\"\nसुप्रभात!",
+        "\"दृढ़ संकल्प के साथ जागो\"\nसुप्रभात!",
+        "\"आज कुछ अद्भुत बनाओ\"\nसुप्रभात!",
+        "\"जीवन सुंदर है, इसका आनंद लो\"\nसुप्रभात!",
+        "\"नए सिरे से शुरू करो\"\nसुप्रभात!",
+        "\"आपका रवैया आपके दिन को आकार देता है\"\nसुप्रभात!",
+        "\"उत्साह के साथ दिन को जब्त करो\"\nसुप्रभात!",
+        "\"अपनी रोशनी को चमकने दो\"\nसुप्रभात!",
+        "\"आज अनंत संभावनाएं हैं\"\nसुप्रभात!",
+        "\"किसी की मुस्कान का कारण बनो\"\nसुप्रभात!",
+        "\"महानता आज आपका इंतजार कर रही है\"\nसुप्रभात!",
+        "\"उठो और सकारात्मकता बिखेरो\"\nसुप्रभात!",
+        "\"आपकी यात्रा अब शुरू होती है\"\nसुप्रभात!",
+        "\"हर पल को महत्वपूर्ण बनाओ\"\nसुप्रभात!",
+        "\"आनंद के साथ दिन को अपनाओ\"\nसुप्रभात!"
+      ]
+    },
+    "good_morning_spiritual": {
+      "en": ["Good Morning"],
+      "hi": ["सुप्रभात"],
+      "bn": ["সুপ্রভাত"],
+      "te": ["శుభోదయం"],
+      "mr": ["सुप्रभात"],
+      "ta": ["காலை வணக்கம்"],
+      "gu": ["સુપ્રભાત"],
+      "kn": ["ಶುಭೋದಯ"]
+    },
+    "good_afternoon": {
+      "en": [
+        "Good Afternoon!\nHope your day is going well!",
+        "Have a lovely afternoon!",
+        "Good Afternoon!\nStay energized!",
+        "Wishing you a productive afternoon!",
+        "Good Afternoon!\nKeep smiling!"
+      ]
+    },
+    "good_evening": {
+      "en": [
+        "Good Evening!\nRelax and unwind!",
+        "Have a peaceful evening!",
+        "Good Evening!\nEnjoy your time!",
+        "Wishing you a beautiful evening!",
+        "Good Evening!\nMay peace be with you!"
+      ]
+    },
+    "good_night": {
+      "en": [
+        "Good Night!\nSweet dreams!",
+        "Sleep well and rest peacefully!",
+        "Good Night!\nMay angels guard you!",
+        "Have a restful night!",
+        "Good Night!\nTomorrow is a new day!"
+      ]
+    },
+    "happy_birthday": {
+      "en": [
+        "Happy Birthday!\nMay all your wishes come true!",
+        "Wishing you joy on your special day!",
+        "Happy Birthday!\nCelebrate with love!",
+        "Many happy returns of the day!",
+        "Happy Birthday!\nMay you be blessed!"
+      ]
+    },
+    "congratulations": {
+      "en": [
+        "Congratulations!\nWell deserved!",
+        "Amazing achievement!\nCongratulations!",
+        "Congratulations!\nProud of you!",
+        "Well done!\nCongratulations!",
+        "Congratulations!\nYou did it!"
+      ]
+    },
+    "thank_you": {
+      "en": [
+        "Thank You!\nYour kindness means a lot!",
+        "Grateful for you!\nThank you!",
+        "Thank You!\nYou are appreciated!",
+        "Thanks a million!",
+        "Thank You!\nWith gratitude!"
+      ]
+    },
+    "diwali": {
+      "en": [
+        "Happy Diwali!\nMay the festival of lights brighten your life",
+        "Wishing you a sparkling Diwali!",
+        "Happy Diwali!\nMay Goddess Lakshmi bless you",
+        "Let the lights of Diwali illuminate your path",
+        "Happy Diwali!\nMay this festival bring peace",
+        "Happy Diwali!\nMay joy and prosperity fill your home",
+        "Wishing you a blessed Diwali!",
+        "Happy Diwali!\nCelebrate with love and light",
+        "May Diwali bring happiness to your life",
+        "Happy Diwali!\nMay success be yours"
+      ]
+    },
+    "holi": {
+      "en": [
+        "Happy Holi!\nMay your life be filled with vibrant colors",
+        "Wishing you a colorful and joyful Holi!",
+        "Happy Holi!\nLet the colors brighten your day",
+        "May this Holi bring new colors of happiness",
+        "Happy Holi!\nCelebrate with colors and joy!"
+      ]
+    },
+    "ganesh_chaturthi": {
+      "en": [
+        "Ganpati Bappa Morya!",
+        "Happy Ganesh Chaturthi!",
+        "Ganpati Bappa Morya!\nWishing you prosperity",
+        "May Lord Ganesha bless you",
+        "Happy Ganesh Chaturthi!\nMay obstacles be removed",
+        "Ganpati Bappa Morya!\nCelebrate with devotion",
+        "May Lord Ganesha bring joy",
+        "Happy Ganesh Chaturthi!\nBlessings to you",
+        "Ganpati Bappa Morya!\nMay peace be with you",
+        "Happy Ganesh Chaturthi!"
+      ]
+    },
+    "navratri": {
+      "en": [
+        "Happy Navratri!\nMay Maa Durga bless you",
+        "Wishing you nine nights of devotion!",
+        "Happy Navratri!\nMay Goddess Durga guide you",
+        "Jai Mata Di!",
+        "Happy Navratri!\nCelebrate with devotion",
+        "May Maa Durga bless you with strength",
+        "Happy Navratri!\nNine nights of divine blessings",
+        "Jai Mata Di!\nMay prosperity be yours",
+        "Happy Navratri!\nDance and celebrate",
+        "May Goddess Durga protect you"
+      ]
+    },
+    "pongal": {
+      "en": [
+        "Happy Pongal!\nMay this harvest festival bring abundance",
+        "Wishing you a joyful Pongal!",
+        "Happy Pongal!\nMay the Sun God bless you",
+        "Pongalo Pongal!",
+        "Happy Pongal!\nCelebrate with gratitude",
+        "May Pongal bring prosperity to your life"
+      ]
+    },
+    "sankrati:pongal": {
+      "en": [
+        "Happy Sankranti!\nMay new beginnings bring prosperity",
+        "Wishing you a bright Sankranti!",
+        "Happy Sankranti!\nMay the Sun God bless you",
+        "Til Gud Ghya!\nSweet wishes for Sankranti",
+        "Happy Sankranti!\nMay warmth and joy fill your life",
+        "May Sankranti bring happiness"
+      ]
+    },
+    "christmas": {
+      "en": [
+        "Merry Christmas!\nMay joy, peace, and love be with you",
+        "Wishing you a Merry Christmas!",
+        "Merry Christmas!\nMay the Christmas spirit fill your heart",
+        "Wishing you peace and love this Christmas",
+        "Merry Christmas!\nMay your days be bright!"
+      ]
+    },
+    "new year": {
+      "en": [
+        "Happy New Year!\nMay new opportunities come your way",
+        "Wishing you a prosperous New Year!",
+        "Happy New Year!\nMay all your dreams come true",
+        "Cheers to new beginnings!",
+        "Happy New Year!\nMay happiness be with you"
+      ]
+    }
+  }
+}
