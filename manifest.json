@@ -79,41 +79,115 @@
       ]
     },
     "good_morning_spiritual": {
-      "count": 32,
-      "images": [
-        "goodmorningspiritual/img1.jpg",
-        "goodmorningspiritual/img2.jpg",
-        "goodmorningspiritual/img3.jpg",
-        "goodmorningspiritual/img4.jpg",
-        "goodmorningspiritual/img5.jpg",
-        "goodmorningspiritual/img6.jpg",
-        "goodmorningspiritual/img7.jpg",
-        "goodmorningspiritual/img8.jpg",
-        "goodmorningspiritual/img9.jpg",
-        "goodmorningspiritual/img10.jpg",
-        "goodmorningspiritual/img11.jpg",
-        "goodmorningspiritual/img12.jpg",
-        "goodmorningspiritual/img13.jpg",
-        "goodmorningspiritual/img14.jpg",
-        "goodmorningspiritual/img15.jpg",
-        "goodmorningspiritual/img16.jpg",
-        "goodmorningspiritual/img17.jpg",
-        "goodmorningspiritual/img18.jpg",
-        "goodmorningspiritual/img19.jpg",
-        "goodmorningspiritual/img20.jpg",
-        "goodmorningspiritual/img21.jpg",
-        "goodmorningspiritual/img22.jpg",
-        "goodmorningspiritual/img23.jpg",
-        "goodmorningspiritual/img24.jpg",
-        "goodmorningspiritual/img25.jpg",
-        "goodmorningspiritual/img26.jpg",
-        "goodmorningspiritual/img27.jpg",
-        "goodmorningspiritual/img28.jpg",
-        "goodmorningspiritual/img29.jpg",
-        "goodmorningspiritual/img30.jpg",
-        "goodmorningspiritual/img31.jpg",
-        "goodmorningspiritual/img32.jpg"
-      ]
+      "days": {
+        "monday": {
+          "images": [
+            "goodmorningspiritual/monday/img1.jpg",
+            "goodmorningspiritual/monday/img2.jpg",
+            "goodmorningspiritual/monday/img3.jpg",
+            "goodmorningspiritual/monday/img4.jpg",
+            "goodmorningspiritual/monday/img5.jpg",
+            "goodmorningspiritual/monday/img6.jpg",
+            "goodmorningspiritual/monday/img7.jpg",
+            "goodmorningspiritual/monday/img8.jpg",
+            "goodmorningspiritual/monday/img9.jpg",
+            "goodmorningspiritual/monday/img10.jpg",
+            "goodmorningspiritual/monday/img11.jpg"
+          ]
+        },
+        "tuesday": {
+          "images": [
+            "goodmorningspiritual/tuesday/img1.jpg",
+            "goodmorningspiritual/tuesday/img2.jpg",
+            "goodmorningspiritual/tuesday/img3.jpg",
+            "goodmorningspiritual/tuesday/img4.jpg",
+            "goodmorningspiritual/tuesday/img5.jpg",
+            "goodmorningspiritual/tuesday/img6.jpg",
+            "goodmorningspiritual/tuesday/img7.jpg",
+            "goodmorningspiritual/tuesday/img8.jpg",
+            "goodmorningspiritual/tuesday/img9.jpg",
+            "goodmorningspiritual/tuesday/img10.jpg",
+            "goodmorningspiritual/tuesday/img11.jpg",
+            "goodmorningspiritual/tuesday/img12.jpg"
+          ]
+        },
+        "wednesday": {
+          "images": [
+            "goodmorningspiritual/wednesday/img1.jpg",
+            "goodmorningspiritual/wednesday/img2.jpg",
+            "goodmorningspiritual/wednesday/img3.jpg",
+            "goodmorningspiritual/wednesday/img4.jpg",
+            "goodmorningspiritual/wednesday/img5.jpg",
+            "goodmorningspiritual/wednesday/img6.jpg",
+            "goodmorningspiritual/wednesday/img7.jpg",
+            "goodmorningspiritual/wednesday/img8.jpg",
+            "goodmorningspiritual/wednesday/img9.jpg",
+            "goodmorningspiritual/wednesday/img10.jpg",
+            "goodmorningspiritual/wednesday/img11.jpg",
+            "goodmorningspiritual/wednesday/img12.jpg",
+            "goodmorningspiritual/wednesday/img13.jpg"
+          ]
+        },
+        "thursday": {
+          "images": [
+            "goodmorningspiritual/thursday/img1.jpg",
+            "goodmorningspiritual/thursday/img2.jpg",
+            "goodmorningspiritual/thursday/img3.jpg",
+            "goodmorningspiritual/thursday/img4.jpg",
+            "goodmorningspiritual/thursday/img5.jpg",
+            "goodmorningspiritual/thursday/img6.jpg",
+            "goodmorningspiritual/thursday/img7.jpg",
+            "goodmorningspiritual/thursday/img8.jpg",
+            "goodmorningspiritual/thursday/img9.jpg",
+            "goodmorningspiritual/thursday/img10.jpg",
+            "goodmorningspiritual/thursday/img11.jpg",
+            "goodmorningspiritual/thursday/img12.jpg",
+            "goodmorningspiritual/thursday/img13.jpg"
+          ]
+        },
+        "friday": {
+          "images": [
+            "goodmorningspiritual/friday/img1.jpg",
+            "goodmorningspiritual/friday/img2.jpg",
+            "goodmorningspiritual/friday/img3.jpg",
+            "goodmorningspiritual/friday/img4.jpg",
+            "goodmorningspiritual/friday/img5.jpg",
+            "goodmorningspiritual/friday/img6.jpg",
+            "goodmorningspiritual/friday/img7.jpg",
+            "goodmorningspiritual/friday/img8.jpg",
+            "goodmorningspiritual/friday/img9.jpg",
+            "goodmorningspiritual/friday/img10.jpg"
+          ]
+        },
+        "saturday": {
+          "images": [
+            "goodmorningspiritual/saturday/img1.jpg",
+            "goodmorningspiritual/saturday/img2.jpg",
+            "goodmorningspiritual/saturday/img3.jpg",
+            "goodmorningspiritual/saturday/img4.jpg",
+            "goodmorningspiritual/saturday/img5.jpg",
+            "goodmorningspiritual/saturday/img6.jpg",
+            "goodmorningspiritual/saturday/img7.jpg",
+            "goodmorningspiritual/saturday/img8.jpg",
+            "goodmorningspiritual/saturday/img9.jpg",
+            "goodmorningspiritual/saturday/img10.jpg",
+            "goodmorningspiritual/saturday/img11.jpg",
+            "goodmorningspiritual/saturday/img12.jpg",
+            "goodmorningspiritual/saturday/img13.jpg",
+            "goodmorningspiritual/saturday/img14.jpg"
+          ]
+        },
+        "sunday": {
+          "images": [
+            "goodmorningspiritual/sunday/img1.jpg",
+            "goodmorningspiritual/sunday/img2.jpg",
+            "goodmorningspiritual/sunday/img3.jpg",
+            "goodmorningspiritual/sunday/img4.jpg",
+            "goodmorningspiritual/sunday/img5.jpg",
+            "goodmorningspiritual/sunday/img6.jpg"
+          ]
+        }
+      }
     },
     "good_afternoon": {
       "count": 10,
